@@ -4,7 +4,7 @@
 
 **Data Analyst:** Marina Cancela  
 **Dataset:** E-commerce Orders & Reviews (Kaggle) [(https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)]
-**Tools Used:** Power BI, DAX, Data Modeling
+**Tools Used:** PostgreSQL (DBeaver / pgAdmin), Power BI, DAX, Data Modeling
 
 ## 🎯 Executive Summary (EN)
 This project analyzes the relationship between logistics performance and customer satisfaction. Beyond standard delivery metrics, this analysis identifies the exact **"SLA Tipping Point"** where brand reputation collapses and audits the system's database to uncover hidden **Data Debt** and algorithm biases.
